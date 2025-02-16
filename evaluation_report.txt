@@ -1,0 +1,7 @@
+Level: L1, Passed tests: 0, Total tests: 2
+	Mismatch found in file: C:\Users\Sumant Yadav\OneDrive\Desktop\LPU_Defend_The_Kingdom_Hackathon_2025\outputs\L1\t1_output.txt
+	Mismatch found in file: C:\Users\Sumant Yadav\OneDrive\Desktop\LPU_Defend_The_Kingdom_Hackathon_2025\outputs\L1\t2_output.txt
+Level: L2, Passed tests: 0, Total tests: 1
+	Mismatch found in file: C:\Users\Sumant Yadav\OneDrive\Desktop\LPU_Defend_The_Kingdom_Hackathon_2025\outputs\L2\t1_output.txt
+Level: outputs, Passed tests: 0, Total tests: 1
+	Mismatch found in file: C:\Users\Sumant Yadav\OneDrive\Desktop\LPU_Defend_The_Kingdom_Hackathon_2025\outputs\tl_output.txt
